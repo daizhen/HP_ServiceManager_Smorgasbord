@@ -1,0 +1,18 @@
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.MailExchange\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.MailExchange\bin\Debug\SM.Smorgasbord.MailExchange.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.MailExchange\bin\Debug\SM.Smorgasbord.MailExchange.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.MailExchange\bin\Debug\Aspose.Email.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.MailExchange\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.MailExchange\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.MailExchange\obj\Debug\SM.Smorgasbord.MailExchange.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.MailExchange\obj\Debug\SM.Smorgasbord.MailExchange.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.MailExchange\bin\Debug\SM.Smorgasbord.MailExchange.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.MailExchange\bin\Debug\SM.Smorgasbord.MailExchange.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.MailExchange\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.MailExchange\obj\Debug\SM.Smorgasbord.MailExchange.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.MailExchange\obj\Debug\SM.Smorgasbord.MailExchange.pdb
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.MailExchange\bin\Debug\SM.Smorgasbord.MailExchange.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.MailExchange\bin\Debug\SM.Smorgasbord.MailExchange.pdb
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.MailExchange\obj\Debug\SM.Smorgasbord.MailExchange.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.MailExchange\obj\Debug\SM.Smorgasbord.MailExchange.pdb
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.MailExchange\obj\Debug\SM.Smorgasbord.MailExchange.csprojResolveAssemblyReference.cache

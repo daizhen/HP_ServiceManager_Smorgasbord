@@ -1,0 +1,70 @@
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\Images\36.ico
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\Images\37.ico
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\Images\SingleMessage.ico
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\Images\unl.ico
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\XmlData\Connections.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\XmlData\GeneralConfig.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\XmlData\PackageChains.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\XmlData\PackageInfo.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\SM.Smorgasbord.GKAutomatic.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\SM.Smorgasbord.GKAutomatic.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\Microsoft.Exchange.WebServices.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\OTAClientLib.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\SM.Smorgasbord.MailExchange.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\Aspose.Email.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\Microsoft.Exchange.WebServices.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\SM.Smorgasbord.MailExchange.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.BugInfoControl.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.ChainForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.FolderForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.FolderPanel.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.MainForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.PackagePanel.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.PDInfoControl.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.Properties.Resources.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.QCLoginForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.RootPathForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.UnloadForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.csproj.GenerateResource.Cache
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\LiquidTechnologies.FastInfoset.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\LiquidTechnologies.FastInfoset.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\LiquidTechnologies.FastInfoset.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\Images\36.ico
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\Images\37.ico
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\Images\SingleMessage.ico
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\Images\unl.ico
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\XmlData\Connections.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\XmlData\GeneralConfig.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\XmlData\PackageChains.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\XmlData\PackageInfo.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\SM.Smorgasbord.GKAutomatic.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\SM.Smorgasbord.GKAutomatic.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\OTAClientLib.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\SM.Smorgasbord.MailExchange.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\Aspose.Email.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\LiquidTechnologies.FastInfoset.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\bin\x86\Release\SM.Smorgasbord.MailExchange.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.BugInfoControl.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.ChainForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.FolderForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.FolderPanel.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.MainForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.PackagePanel.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.PDInfoControl.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.Properties.Resources.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.QCLoginForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.RootPathForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.UnloadForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.csproj.GenerateResource.Cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.GKAutomatic\obj\x86\Release\SM.Smorgasbord.GKAutomatic.pdb

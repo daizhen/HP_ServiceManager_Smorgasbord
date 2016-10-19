@@ -1,0 +1,12 @@
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\bin\Release\SM.Smorgasbord.Debuger.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\bin\Release\SM.Smorgasbord.Debuger.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\bin\Release\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\bin\Release\LiquidTechnologies.FastInfoset.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\bin\Release\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Release\ResolveAssemblyReference.cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Release\SM.Smorgasbord.Debuger.Form1.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Release\SM.Smorgasbord.Debuger.Properties.Resources.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Release\SM.Smorgasbord.Debuger.csproj.GenerateResource.Cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Release\SM.Smorgasbord.Debuger.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Release\SM.Smorgasbord.Debuger.pdb

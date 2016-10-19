@@ -1,0 +1,45 @@
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\JSCode\JsonEncode.js
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\JSCode\SearchString.js
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.SearchString.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.SearchString.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.Properties.Resources.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.SearchForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.csproj.GenerateResource.Cache
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\TableToSearch.txt
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\LiquidTechnologies.FastInfoset.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\LiquidTechnologies.FastInfoset.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\LiquidTechnologies.FastInfoset.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\JSCode\SearchString.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\TableToSearch.txt
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.SearchString.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.SearchString.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\LiquidTechnologies.FastInfoset.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.Properties.Resources.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.SearchForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.csproj.GenerateResource.Cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.pdb
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\JSCode\SearchString.js
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\TableToSearch.txt
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.SearchString.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.SearchString.pdb
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\LiquidTechnologies.FastInfoset.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.csprojResolveAssemblyReference.cache
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.Properties.Resources.resources
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.SearchForm.resources
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.csproj.GenerateResource.Cache
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.pdb

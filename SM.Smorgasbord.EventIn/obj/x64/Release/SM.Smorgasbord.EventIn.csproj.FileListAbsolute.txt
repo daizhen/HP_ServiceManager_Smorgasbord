@@ -1,0 +1,12 @@
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x64\Release\JSCode\GetEventInFieldValues.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x64\Release\JSCode\JsonEncode.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x64\Release\SM.Smorgasbord.EventIn.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x64\Release\SM.Smorgasbord.EventIn.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x64\Release\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x64\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x64\Release\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x64\Release\SM.Smorgasbord.EventIn.EventInForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x64\Release\SM.Smorgasbord.EventIn.csproj.GenerateResource.Cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x64\Release\SM.Smorgasbord.EventIn.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x64\Release\SM.Smorgasbord.EventIn.pdb

@@ -1,0 +1,28 @@
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\JSCode\GetEventInFieldValues.js
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\JSCode\JsonEncode.js
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\SM.Smorgasbord.EventIn.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\SM.Smorgasbord.EventIn.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x86\Release\SM.Smorgasbord.EventIn.EventInForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x86\Release\SM.Smorgasbord.EventIn.csproj.GenerateResource.Cache
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x86\Release\SM.Smorgasbord.EventIn.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x86\Release\SM.Smorgasbord.EventIn.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\LiquidTechnologies.FastInfoset.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\LiquidTechnologies.FastInfoset.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\LiquidTechnologies.FastInfoset.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\JSCode\GetEventInFieldValues.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\JSCode\JsonEncode.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\SM.Smorgasbord.EventIn.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\SM.Smorgasbord.EventIn.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\LiquidTechnologies.FastInfoset.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\bin\x86\Release\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x86\Release\SM.Smorgasbord.EventIn.EventInForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x86\Release\SM.Smorgasbord.EventIn.csproj.GenerateResource.Cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x86\Release\SM.Smorgasbord.EventIn.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.EventIn\obj\x86\Release\SM.Smorgasbord.EventIn.pdb

@@ -1,0 +1,329 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x77373792, pid=5412, tid=7352
+#
+# JRE version: 6.0_20-b02
+# Java VM: Java HotSpot(TM) Client VM (16.3-b01 mixed mode windows-x86 )
+# Problematic frame:
+# C  [ntdll.dll+0x33792]
+#
+# If you would like to submit a bug report, please visit:
+#   http://java.sun.com/webapps/bugreport/crash.jsp
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0249a000):  JavaThread "main" [_thread_in_native, id=7352, stack(0x003b0000,0x00400000)]
+
+siginfo: ExceptionCode=0xc0000005, reading address 0x0bacbb24
+
+Registers:
+EAX=0x19a1d258, EBX=0x00000000, ECX=0x0bacbb24, EDX=0x19a1b370
+ESP=0x003fe1b0, EBP=0x003fe290, ESI=0x19a1b368, EDI=0x02490000
+EIP=0x77373792, EFLAGS=0x00010287
+
+Top of Stack: (sp=0x003fe1b0)
+0x003fe1b0:   7ec7bbfb 00000000 02490000 19a1b370
+0x003fe1c0:   00000000 00000000 0249a000 0249aa14
+0x003fe1d0:   04684290 cccccccc 19a1d258 7735f955
+0x003fe1e0:   76f00ee2 02490000 02492fe8 00000000
+0x003fe1f0:   003fe300 02492fe8 02000002 00000001
+0x003fe200:   6d419347 00000800 0249a110 00001edc
+0x003fe210:   00000003 cccccccc 000003dd 000004a0
+0x003fe220:   cccccccc c808c000 0249a000 003fe250 
+
+Instructions: (pc=0x77373792)
+0x77373782:   e0 0f 87 99 74 05 00 8d 56 08 89 55 c4 8b 48 04
+0x77373792:   8b 19 3b d8 0f 85 8d 74 05 00 89 02 89 4a 04 89 
+
+
+Stack: [0x003b0000,0x00400000],  sp=0x003fe1b0,  free space=138003fdb18k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+C  [ntdll.dll+0x33792]
+C  [ntdll.dll+0x33492]
+C  [kernel32.dll+0x114dd]
+C  [msvcr71.dll+0x218a]
+C  [net.dll+0x710e]
+j  java.net.SocketInputStream.socketRead0(Ljava/io/FileDescriptor;[BIII)I+0
+j  java.net.SocketInputStream.read([BII)I+84
+J  java.io.BufferedInputStream.fill()V
+J  java.io.BufferedInputStream.read1([BII)I
+J  java.io.BufferedInputStream.read([BII)I
+j  sun.net.www.http.ChunkedInputStream.readAheadBlocking()I+38
+J  sun.net.www.http.ChunkedInputStream.readAhead(Z)I
+j  sun.net.www.http.ChunkedInputStream.read([BII)I+80
+j  java.io.FilterInputStream.read([BII)I+7
+j  sun.net.www.protocol.http.HttpURLConnection$HttpInputStream.read([BII)I+4
+J  java.io.BufferedInputStream.fill()V
+J  java.io.BufferedInputStream.read()I
+J  java.util.zip.CheckedInputStream.read()I
+J  java.util.zip.GZIPInputStream.readUByte(Ljava/io/InputStream;)I
+J  java.util.zip.GZIPInputStream.readUShort(Ljava/io/InputStream;)I
+j  java.util.zip.GZIPInputStream.readHeader()V+25
+j  java.util.zip.GZIPInputStream.<init>(Ljava/io/InputStream;I)V+45
+J  com.hp.ov.sm.client.common.soap.SCSOAPConnectionImpl.send(Ljavax/xml/soap/SOAPMessage;Ljava/net/URL;)Ljavax/xml/soap/SOAPMessage;
+j  com.hp.ov.sm.client.common.soap.SCSOAPConnectionImpl.call(Ljavax/xml/soap/SOAPMessage;Ljava/lang/Object;)Ljavax/xml/soap/SOAPMessage;+99
+j  com.hp.ov.sm.client.common.soap.BaseSoapClient.internalDoSoapTransact(Ljavax/xml/soap/SOAPMessage;)Ljavax/xml/soap/SOAPMessage;+51
+j  com.hp.ov.sm.client.common.communications.SOAPClient.internalDoSoapTransact(Ljavax/xml/soap/SOAPMessage;)Ljavax/xml/soap/SOAPMessage;+16
+j  com.hp.ov.sm.client.eclipse.user.controller.TopazClient.internalDoSoapTransact(Ljavax/xml/soap/SOAPMessage;)Ljavax/xml/soap/SOAPMessage;+2
+j  com.hp.ov.sm.client.common.soap.SoapReq.run()V+80
+j  com.hp.ov.sm.client.common.soap.BaseSoapClient.syncExecInCurrentThread(Lcom/hp/ov/sm/client/common/soap/SoapReq;)V+25
+j  com.hp.ov.sm.client.common.soap.BaseSoapClient.queueRequest(Lcom/hp/ov/sm/client/common/soap/SoapReq;)V+9
+j  com.hp.ov.sm.client.common.soap.SoapReq.queue(Lcom/hp/ov/sm/client/common/soap/ISoapTarget;Ljava/lang/Object;)V+34
+j  com.hp.ov.sm.client.common.soap.BaseSoapClient.queueRequest(Ljava/lang/String;Lorg/jdom/Document;Ljava/util/List;Ljava/lang/Object;Lcom/hp/ov/sm/client/common/soap/ISoapTarget;)V+19
+j  com.hp.ov.sm.client.eclipse.user.controller.Controller.sendExecute(Ljava/lang/String;)V+173
+j  com.hp.ov.sm.client.eclipse.user.controller.Controller.modelChanged(Lcom/hp/ov/sm/client/eclipse/base/document/IModelChangedEvent;)V+289
+j  com.hp.ov.sm.client.eclipse.base.document.XModel.fireModelChanged(Lcom/hp/ov/sm/client/eclipse/base/document/IModelChangedEvent;)V+34
+j  com.hp.ov.sm.client.eclipse.base.document.XModel.fireModelObjectChanged(Ljava/lang/Object;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V+17
+j  com.hp.ov.sm.client.eclipse.base.document.XModel.setValue(Ljava/lang/String;Ljava/lang/String;ZZ)V+50
+j  com.hp.ov.sm.client.eclipse.base.document.XModel.setValue(Ljava/lang/String;Ljava/lang/String;Z)V+5
+j  com.hp.ov.sm.client.eclipse.user.editors.format.OptionContribution$RunAction.run()V+14
+J  org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Z)Z
+J  org.eclipse.swt.widgets.Display.readAndDispatch()Z
+j  org.eclipse.ui.internal.Workbench.runEventLoop(Lorg/eclipse/jface/window/Window$IExceptionHandler;Lorg/eclipse/swt/widgets/Display;)V+9
+j  org.eclipse.ui.internal.Workbench.runUI()I+225
+j  org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Lorg/eclipse/swt/widgets/Display;Lorg/eclipse/ui/application/WorkbenchAdvisor;)I+11
+j  org.eclipse.ui.PlatformUI.createAndRunWorkbench(Lorg/eclipse/swt/widgets/Display;Lorg/eclipse/ui/application/WorkbenchAdvisor;)I+2
+j  com.hp.ov.sm.client.eclipse.rcp.RcpClient.run(Ljava/lang/Object;)Ljava/lang/Object;+33
+j  org.eclipse.core.internal.runtime.PlatformActivator$1.run(Ljava/lang/Object;)Ljava/lang/Object;+219
+j  org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(Ljava/lang/Object;)Ljava/lang/Object;+103
+j  org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(Ljava/lang/Object;)Ljava/lang/Object;+29
+j  org.eclipse.core.runtime.adaptor.EclipseStarter.run(Ljava/lang/Object;)Ljava/lang/Object;+135
+j  org.eclipse.core.runtime.adaptor.EclipseStarter.run([Ljava/lang/String;Ljava/lang/Runnable;)Ljava/lang/Object;+60
+v  ~StubRoutines::call_stub
+V  [jvm.dll+0xf049c]
+V  [jvm.dll+0x17fcf1]
+V  [jvm.dll+0xf051d]
+V  [jvm.dll+0x199ceb]
+V  [jvm.dll+0x19a706]
+V  [jvm.dll+0x11bc03]
+C  [java.dll+0x714d]
+j  sun.reflect.NativeMethodAccessorImpl.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;+87
+j  sun.reflect.DelegatingMethodAccessorImpl.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;+6
+j  java.lang.reflect.Method.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;+161
+j  org.eclipse.core.launcher.Main.invokeFramework([Ljava/lang/String;[Ljava/net/URL;)V+181
+j  org.eclipse.core.launcher.Main.basicRun([Ljava/lang/String;)V+107
+j  org.eclipse.core.launcher.Main.run([Ljava/lang/String;)I+4
+j  org.eclipse.core.launcher.Main.main([Ljava/lang/String;)V+10
+v  ~StubRoutines::call_stub
+V  [jvm.dll+0xf049c]
+V  [jvm.dll+0x17fcf1]
+V  [jvm.dll+0xf051d]
+V  [jvm.dll+0xf9bc5]
+V  [jvm.dll+0x10181d]
+C  [javaw.exe+0x2155]
+C  [javaw.exe+0x8614]
+C  [kernel32.dll+0x133aa]
+C  [ntdll.dll+0x39ef2]
+C  [ntdll.dll+0x39ec5]
+
+Java frames: (J=compiled Java code, j=interpreted, Vv=VM code)
+j  java.net.SocketInputStream.socketRead0(Ljava/io/FileDescriptor;[BIII)I+0
+j  java.net.SocketInputStream.read([BII)I+84
+J  java.io.BufferedInputStream.fill()V
+J  java.io.BufferedInputStream.read1([BII)I
+J  java.io.BufferedInputStream.read([BII)I
+j  sun.net.www.http.ChunkedInputStream.readAheadBlocking()I+38
+J  sun.net.www.http.ChunkedInputStream.readAhead(Z)I
+j  sun.net.www.http.ChunkedInputStream.read([BII)I+80
+j  java.io.FilterInputStream.read([BII)I+7
+j  sun.net.www.protocol.http.HttpURLConnection$HttpInputStream.read([BII)I+4
+J  java.io.BufferedInputStream.fill()V
+J  java.io.BufferedInputStream.read()I
+J  java.util.zip.CheckedInputStream.read()I
+J  java.util.zip.GZIPInputStream.readUByte(Ljava/io/InputStream;)I
+J  java.util.zip.GZIPInputStream.readUShort(Ljava/io/InputStream;)I
+j  java.util.zip.GZIPInputStream.readHeader()V+25
+j  java.util.zip.GZIPInputStream.<init>(Ljava/io/InputStream;I)V+45
+J  com.hp.ov.sm.client.common.soap.SCSOAPConnectionImpl.send(Ljavax/xml/soap/SOAPMessage;Ljava/net/URL;)Ljavax/xml/soap/SOAPMessage;
+j  com.hp.ov.sm.client.common.soap.SCSOAPConnectionImpl.call(Ljavax/xml/soap/SOAPMessage;Ljava/lang/Object;)Ljavax/xml/soap/SOAPMessage;+99
+j  com.hp.ov.sm.client.common.soap.BaseSoapClient.internalDoSoapTransact(Ljavax/xml/soap/SOAPMessage;)Ljavax/xml/soap/SOAPMessage;+51
+j  com.hp.ov.sm.client.common.communications.SOAPClient.internalDoSoapTransact(Ljavax/xml/soap/SOAPMessage;)Ljavax/xml/soap/SOAPMessage;+16
+j  com.hp.ov.sm.client.eclipse.user.controller.TopazClient.internalDoSoapTransact(Ljavax/xml/soap/SOAPMessage;)Ljavax/xml/soap/SOAPMessage;+2
+j  com.hp.ov.sm.client.common.soap.SoapReq.run()V+80
+j  com.hp.ov.sm.client.common.soap.BaseSoapClient.syncExecInCurrentThread(Lcom/hp/ov/sm/client/common/soap/SoapReq;)V+25
+j  com.hp.ov.sm.client.common.soap.BaseSoapClient.queueRequest(Lcom/hp/ov/sm/client/common/soap/SoapReq;)V+9
+j  com.hp.ov.sm.client.common.soap.SoapReq.queue(Lcom/hp/ov/sm/client/common/soap/ISoapTarget;Ljava/lang/Object;)V+34
+j  com.hp.ov.sm.client.common.soap.BaseSoapClient.queueRequest(Ljava/lang/String;Lorg/jdom/Document;Ljava/util/List;Ljava/lang/Object;Lcom/hp/ov/sm/client/common/soap/ISoapTarget;)V+19
+j  com.hp.ov.sm.client.eclipse.user.controller.Controller.sendExecute(Ljava/lang/String;)V+173
+j  com.hp.ov.sm.client.eclipse.user.controller.Controller.modelChanged(Lcom/hp/ov/sm/client/eclipse/base/document/IModelChangedEvent;)V+289
+j  com.hp.ov.sm.client.eclipse.base.document.XModel.fireModelChanged(Lcom/hp/ov/sm/client/eclipse/base/document/IModelChangedEvent;)V+34
+j  com.hp.ov.sm.client.eclipse.base.document.XModel.fireModelObjectChanged(Ljava/lang/Object;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V+17
+j  com.hp.ov.sm.client.eclipse.base.document.XModel.setValue(Ljava/lang/String;Ljava/lang/String;ZZ)V+50
+j  com.hp.ov.sm.client.eclipse.base.document.XModel.setValue(Ljava/lang/String;Ljava/lang/String;Z)V+5
+j  com.hp.ov.sm.client.eclipse.user.editors.format.OptionContribution$RunAction.run()V+14
+J  org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Z)Z
+J  org.eclipse.swt.widgets.Display.readAndDispatch()Z
+j  org.eclipse.ui.internal.Workbench.runEventLoop(Lorg/eclipse/jface/window/Window$IExceptionHandler;Lorg/eclipse/swt/widgets/Display;)V+9
+j  org.eclipse.ui.internal.Workbench.runUI()I+225
+j  org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Lorg/eclipse/swt/widgets/Display;Lorg/eclipse/ui/application/WorkbenchAdvisor;)I+11
+j  org.eclipse.ui.PlatformUI.createAndRunWorkbench(Lorg/eclipse/swt/widgets/Display;Lorg/eclipse/ui/application/WorkbenchAdvisor;)I+2
+j  com.hp.ov.sm.client.eclipse.rcp.RcpClient.run(Ljava/lang/Object;)Ljava/lang/Object;+33
+j  org.eclipse.core.internal.runtime.PlatformActivator$1.run(Ljava/lang/Object;)Ljava/lang/Object;+219
+j  org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(Ljava/lang/Object;)Ljava/lang/Object;+103
+j  org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(Ljava/lang/Object;)Ljava/lang/Object;+29
+j  org.eclipse.core.runtime.adaptor.EclipseStarter.run(Ljava/lang/Object;)Ljava/lang/Object;+135
+j  org.eclipse.core.runtime.adaptor.EclipseStarter.run([Ljava/lang/String;Ljava/lang/Runnable;)Ljava/lang/Object;+60
+v  ~StubRoutines::call_stub
+j  sun.reflect.NativeMethodAccessorImpl.invoke0(Ljava/lang/reflect/Method;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;+0
+j  sun.reflect.NativeMethodAccessorImpl.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;+87
+j  sun.reflect.DelegatingMethodAccessorImpl.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;+6
+j  java.lang.reflect.Method.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;+161
+j  org.eclipse.core.launcher.Main.invokeFramework([Ljava/lang/String;[Ljava/net/URL;)V+181
+j  org.eclipse.core.launcher.Main.basicRun([Ljava/lang/String;)V+107
+j  org.eclipse.core.launcher.Main.run([Ljava/lang/String;)I+4
+j  org.eclipse.core.launcher.Main.main([Ljava/lang/String;)V+10
+v  ~StubRoutines::call_stub
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x18972400 JavaThread "Timer-6" [_thread_blocked, id=7148, stack(0x1e070000,0x1e0c0000)]
+  0x18972000 JavaThread "Timer-5" [_thread_blocked, id=9600, stack(0x1dfb0000,0x1e000000)]
+  0x18971800 JavaThread "Timer-4" [_thread_blocked, id=4392, stack(0x1de40000,0x1de90000)]
+  0x18971400 JavaThread "Timer-3" [_thread_blocked, id=6404, stack(0x1dc70000,0x1dcc0000)]
+  0x18970c00 JavaThread "Timer-2" daemon [_thread_blocked, id=10352, stack(0x1dbb0000,0x1dc00000)]
+  0x18970800 JavaThread "ElementEventQueue.QProcessor-1" daemon [_thread_blocked, id=6780, stack(0x1d960000,0x1d9b0000)]
+  0x19b80800 JavaThread "Timer-1" [_thread_blocked, id=10780, stack(0x1d8d0000,0x1d920000)]
+  0x19aefc00 JavaThread "Worker-2" [_thread_blocked, id=10616, stack(0x1c3e0000,0x1c430000)]
+  0x19af2c00 JavaThread "Timer-0" daemon [_thread_blocked, id=10764, stack(0x1b6b0000,0x1b700000)]
+  0x19af2400 JavaThread "DDEServer-HP_Service_Manager" daemon [_thread_in_native, id=11052, stack(0x1b600000,0x1b650000)]
+  0x1998f800 JavaThread "Worker-1" [_thread_blocked, id=1604, stack(0x1a970000,0x1a9c0000)]
+  0x19880800 JavaThread "Worker-0" [_thread_blocked, id=1704, stack(0x1a6f0000,0x1a740000)]
+  0x188b8000 JavaThread "Start Level Event Dispatcher" daemon [_thread_blocked, id=5212, stack(0x19390000,0x193e0000)]
+  0x188eb400 JavaThread "Framework Event Dispatcher" daemon [_thread_blocked, id=10812, stack(0x192b0000,0x19300000)]
+  0x188c5400 JavaThread "State Data Manager" daemon [_thread_blocked, id=7936, stack(0x19220000,0x19270000)]
+  0x0241a800 JavaThread "Low Memory Detector" daemon [_thread_blocked, id=8796, stack(0x18bd0000,0x18c20000)]
+  0x02416400 JavaThread "CompilerThread0" daemon [_thread_blocked, id=7324, stack(0x18b40000,0x18b90000)]
+  0x02415400 JavaThread "Attach Listener" daemon [_thread_blocked, id=4508, stack(0x18ab0000,0x18b00000)]
+  0x02414800 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=8284, stack(0x18a20000,0x18a70000)]
+  0x02402800 JavaThread "Finalizer" daemon [_thread_blocked, id=1832, stack(0x18790000,0x187e0000)]
+  0x02401000 JavaThread "Reference Handler" daemon [_thread_blocked, id=6000, stack(0x18700000,0x18750000)]
+=>0x0249a000 JavaThread "main" [_thread_in_native, id=7352, stack(0x003b0000,0x00400000)]
+
+Other Threads:
+  0x023fd000 VMThread [stack: 0x18670000,0x186c0000] [id=4012]
+  0x187ea000 WatcherThread [stack: 0x18c60000,0x18cb0000] [id=8520]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Heap
+ def new generation   total 7232K, used 1549K [0x04520000, 0x04cf0000, 0x09a70000)
+  eden space 6464K,  22% used [0x04520000, 0x0468ac58, 0x04b70000)
+  from space 768K,  12% used [0x04c30000, 0x04c48998, 0x04cf0000)
+  to   space 768K,   0% used [0x04b70000, 0x04b70000, 0x04c30000)
+ tenured generation   total 15892K, used 13463K [0x09a70000, 0x0a9f5000, 0x14520000)
+   the space 15892K,  84% used [0x09a70000, 0x0a795ce8, 0x0a795e00, 0x0a9f5000)
+ compacting perm gen  total 30208K, used 29959K [0x14520000, 0x162a0000, 0x18520000)
+   the space 30208K,  99% used [0x14520000, 0x16261f38, 0x16262000, 0x162a0000)
+No shared spaces configured.
+
+Dynamic libraries:
+0x00400000 - 0x00424000 	C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\jre\bin\javaw.exe
+0x77340000 - 0x774c0000 	C:\Windows\SysWOW64\ntdll.dll
+0x75860000 - 0x75970000 	C:\Windows\syswow64\kernel32.dll
+0x76ef0000 - 0x76f37000 	C:\Windows\syswow64\KERNELBASE.dll
+0x76200000 - 0x762a0000 	C:\Windows\syswow64\ADVAPI32.dll
+0x75be0000 - 0x75c8c000 	C:\Windows\syswow64\msvcrt.dll
+0x76060000 - 0x76079000 	C:\Windows\SysWOW64\sechost.dll
+0x75af0000 - 0x75be0000 	C:\Windows\syswow64\RPCRT4.dll
+0x74ea0000 - 0x74f00000 	C:\Windows\syswow64\SspiCli.dll
+0x74e90000 - 0x74e9c000 	C:\Windows\syswow64\CRYPTBASE.dll
+0x75190000 - 0x75290000 	C:\Windows\syswow64\USER32.dll
+0x75fd0000 - 0x76060000 	C:\Windows\syswow64\GDI32.dll
+0x756c0000 - 0x756ca000 	C:\Windows\syswow64\LPK.dll
+0x75700000 - 0x7579d000 	C:\Windows\syswow64\USP10.dll
+0x75460000 - 0x754c0000 	C:\Windows\system32\IMM32.DLL
+0x74f00000 - 0x74fcc000 	C:\Windows\syswow64\MSCTF.dll
+0x7c340000 - 0x7c396000 	C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\jre\bin\msvcr71.dll
+0x6d800000 - 0x6da97000 	C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\jre\bin\client\jvm.dll
+0x701c0000 - 0x701f2000 	C:\Windows\system32\WINMM.dll
+0x71b30000 - 0x71b7c000 	C:\Windows\system32\apphelp.dll
+0x6d7b0000 - 0x6d7bc000 	C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\jre\bin\verify.dll
+0x6d330000 - 0x6d34f000 	C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\jre\bin\java.dll
+0x6d290000 - 0x6d298000 	C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\jre\bin\hpi.dll
+0x759d0000 - 0x759d5000 	C:\Windows\syswow64\PSAPI.DLL
+0x6d7f0000 - 0x6d7ff000 	C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\jre\bin\zip.dll
+0x738b0000 - 0x738c6000 	C:\Windows\system32\CRYPTSP.dll
+0x73870000 - 0x738ab000 	C:\Windows\system32\rsaenh.dll
+0x73910000 - 0x73927000 	C:\Windows\system32\USERENV.dll
+0x73900000 - 0x7390b000 	C:\Windows\system32\profapi.dll
+0x6d610000 - 0x6d623000 	C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\jre\bin\net.dll
+0x75f90000 - 0x75fc5000 	C:\Windows\syswow64\WS2_32.dll
+0x77310000 - 0x77316000 	C:\Windows\syswow64\NSI.dll
+0x703d0000 - 0x7040c000 	C:\Windows\system32\mswsock.dll
+0x718f0000 - 0x718f6000 	C:\Windows\System32\wship6.dll
+0x6fff0000 - 0x70000000 	C:\Windows\system32\NLAapi.dll
+0x6fcf0000 - 0x6fd00000 	C:\Windows\system32\napinsp.dll
+0x6fcd0000 - 0x6fce2000 	C:\Windows\system32\pnrpnsp.dll
+0x70380000 - 0x703c4000 	C:\Windows\system32\DNSAPI.dll
+0x6fcc0000 - 0x6fcc8000 	C:\Windows\System32\winrnr.dll
+0x70350000 - 0x70374000 	c:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live\WLIDNSP.DLL
+0x760a0000 - 0x760f7000 	C:\Windows\syswow64\SHLWAPI.dll
+0x6fcb0000 - 0x6fcbd000 	C:\Windows\system32\wshbth.dll
+0x71900000 - 0x71905000 	C:\Windows\System32\wshtcpip.dll
+0x70330000 - 0x7034c000 	C:\Windows\system32\IPHLPAPI.DLL
+0x718e0000 - 0x718e7000 	C:\Windows\system32\WINNSI.DLL
+0x70320000 - 0x70326000 	C:\Windows\system32\rasadhlp.dll
+0x702e0000 - 0x70318000 	C:\Windows\System32\fwpuclnt.dll
+0x6d630000 - 0x6d639000 	C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\jre\bin\nio.dll
+0x19fe0000 - 0x1a033000 	C:\Users\daizhen\ServiceManager\configuration\org.eclipse.osgi\bundles\160\1\.cp\swt-win32-3236.dll
+0x75c90000 - 0x75dec000 	C:\Windows\syswow64\ole32.dll
+0x74a20000 - 0x74bbe000 	C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\COMCTL32.dll
+0x759e0000 - 0x75a5b000 	C:\Windows\syswow64\comdlg32.dll
+0x762a0000 - 0x76eea000 	C:\Windows\syswow64\SHELL32.dll
+0x74fd0000 - 0x7505f000 	C:\Windows\syswow64\OLEAUT32.dll
+0x76100000 - 0x761f5000 	C:\Windows\syswow64\WININET.dll
+0x75320000 - 0x75457000 	C:\Windows\syswow64\urlmon.dll
+0x75070000 - 0x7518e000 	C:\Windows\syswow64\CRYPT32.dll
+0x75290000 - 0x7529c000 	C:\Windows\syswow64\MSASN1.dll
+0x754c0000 - 0x756bf000 	C:\Windows\syswow64\iertutil.dll
+0x412c0000 - 0x412e1000 	C:\Windows\system32\MSVFW32.dll
+0x6f720000 - 0x6f7a0000 	C:\Windows\system32\uxtheme.dll
+0x6f6c0000 - 0x6f6d3000 	C:\Windows\system32\dwmapi.dll
+0x66ed0000 - 0x66f06000 	c:\Program Files\WIDCOMM\Bluetooth Software\SysWOW64\BtMmHook.dll
+0x74910000 - 0x7494c000 	C:\Windows\system32\oleacc.dll
+0x70220000 - 0x7022e000 	C:\Windows\system32\RpcRtRemote.dll
+0x757a0000 - 0x75823000 	C:\Windows\syswow64\CLBCatQ.DLL
+0x6f670000 - 0x6f69e000 	C:\Windows\system32\mlang.dll
+0x73cc0000 - 0x73cc5000 	C:\Windows\system32\msimg32.dll
+0x6d320000 - 0x6d326000 	C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\jre\bin\jaas_nt.dll
+0x6d000000 - 0x6d14a000 	C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\jre\bin\awt.dll
+0x749c0000 - 0x74a11000 	C:\Windows\system32\WINSPOOL.DRV
+0x1a9c0000 - 0x1a9f3000 	C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SMDebugger.Msg\Debug\Debugger.Core.dll
+0x1aa10000 - 0x1ab33000 	C:\Windows\WinSxS\x86_microsoft.vc90.debugcrt_1fc8b3b9a1e18e3b_9.0.21022.8_none_96748342450f6aa2\MSVCR90D.dll
+0x1ab40000 - 0x1ac16000 	C:\Windows\WinSxS\x86_microsoft.vc90.debugcrt_1fc8b3b9a1e18e3b_9.0.21022.8_none_96748342450f6aa2\MSVCP90D.dll
+0x1ad20000 - 0x1ad37000 	C:\Windows\System32\corojdk11.dll
+0x1ad40000 - 0x1ad52000 	C:\Windows\system32\JDDE.DLL
+
+VM Arguments:
+java_command: C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\\startup.jar -os win32 -ws win32 -arch x86 -launcher C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\\ServiceManager.exe -name ServiceManager -showsplash 600 -exitdata a90_c0 -Dosgi.locking=java.io -vmargs  -Xmx256M -vm C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\\jre\bin\javaw.exe -vmargs -jar C:\Program Files (x86)\HP\Service Manager 9.30\Client_3\\startup.jar
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=C:\Program Files (x86)\Java\jre6\bin
+PATH=C:\app\daizhen\product\11.2.0\dbhome_1\bin;C:\app\daizhen\product\11.2.0\client_1\bin;C:\app\daizhen\product\11.2.0\client_1;C:\Program Files\Common Files\Microsoft Shared\Windows Live;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\Program Files\RA2HP\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\ActivIdentity\ActivClient\;C:\Program Files (x86)\ActivIdentity\ActivClient\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files (x86)\Java\jre6\bin;c:\Program Files\WIDCOMM\Bluetooth Software\;c:\Program Files\WIDCOMM\Bluetooth Software\syswow64;;C:\Program Files (x86)\Oracle\Instant Client\bin;C:\WinDDK;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Common Files\Microsoft Shared\Windows Live
+USERNAME=daizhen
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 7 Build 7601 Service Pack 1
+
+CPU:total 8 (8 cores per cpu, 2 threads per core) family 6 model 58 stepping 9, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, ht
+
+Memory: 4k page, physical 8320712k(3029444k free), swap 16639568k(10072372k free)
+
+vm_info: Java HotSpot(TM) Client VM (16.3-b01) for windows-x86 JRE (1.6.0_20-b02), built on Apr 12 2010 13:52:23 by "java_re" with MS VC++ 7.1 (VS2003)
+
+time: Mon May 27 15:27:01 2013
+elapsed time: 223 seconds
+

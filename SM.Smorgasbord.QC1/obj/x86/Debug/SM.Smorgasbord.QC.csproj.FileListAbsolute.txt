@@ -1,0 +1,8 @@
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.QC1\bin\x86\Debug\SM.Smorgasbord.QC.exe
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.QC1\bin\x86\Debug\SM.Smorgasbord.QC.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.QC1\bin\x86\Debug\OTAClientLib.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.QC1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.QC1\obj\x86\Debug\SM.Smorgasbord.QC.Properties.Resources.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.QC1\obj\x86\Debug\SM.Smorgasbord.QC.csproj.GenerateResource.Cache
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.QC1\obj\x86\Debug\SM.Smorgasbord.QC.exe
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.QC1\obj\x86\Debug\SM.Smorgasbord.QC.pdb

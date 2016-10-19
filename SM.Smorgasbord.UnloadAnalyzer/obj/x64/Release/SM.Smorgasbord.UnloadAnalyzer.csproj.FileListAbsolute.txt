@@ -1,0 +1,11 @@
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\bin\x64\Release\SM.Smorgasbord.UnloadAnalyzer.exe
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\bin\x64\Release\SM.Smorgasbord.UnloadAnalyzer.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\bin\x64\Release\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\bin\x64\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\bin\x64\Release\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\x64\Release\SM.Smorgasbord.UnloadAnalyzer.Form1.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\x64\Release\SM.Smorgasbord.UnloadAnalyzer.Properties.Resources.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\x64\Release\SM.Smorgasbord.UnloadAnalyzer.csproj.GenerateResource.Cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\x64\Release\SM.Smorgasbord.UnloadAnalyzer.exe
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\x64\Release\SM.Smorgasbord.UnloadAnalyzer.pdb

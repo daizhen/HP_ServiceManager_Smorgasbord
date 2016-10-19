@@ -1,0 +1,185 @@
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\CreateUnloadRecord.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\GetAuditInfo.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\GetUnloadEntity.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Aspose.Words.lic
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Templates\Audit Log File Template.docx
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Templates\Move Instructions Template.docx
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Images\36.ico
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Images\37.ico
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Images\unl.ico
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\Connections.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\GeneralConfig.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\PackageChains.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\PackageInfo.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\MenuConfig.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\MagicLibrary.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.GKAutomatic.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.PackageGenerator.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Aspose.Words.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\office.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Aspose.Words.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.GKAutomatic.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\office.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.PackageGenerator.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.ConnectionForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.MainForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.MessagesForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.Properties.Resources.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.TopForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.csproj.GenerateResource.Cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM Smorgasbord.exe
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM Smorgasbord.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM Smorgasbord.exe
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM Smorgasbord.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM Smorgasbord.exe.config
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\OTAClientLib.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\GetEventInFieldValues.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.EventIn.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.EventIn.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\JsonEncode.js
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM Smorgasbord.exe.config
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM Smorgasbord.exe
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM Smorgasbord.pdb
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\GetAuditInfo.js
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\CreateUnloadRecord.js
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Aspose.Words.lic
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Images\unl.ico
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Images\36.ico
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Images\37.ico
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\GetUnloadEntity.js
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\GetEventInFieldValues.js
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\PackageChains.xml
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\JsonEncode.js
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Templates\Audit Log File Template.docx
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\Connections.xml
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\PackageInfo.xml
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Templates\Move Instructions Template.docx
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\GeneralConfig.xml
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\MenuConfig.xml
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM Smorgasbord.exe
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM Smorgasbord.pdb
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.EventIn.dll
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.GKAutomatic.dll
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.PackageGenerator.dll
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\OTAClientLib.dll
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Aspose.Words.dll
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Noemax.FastInfoset.dll
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\office.dll
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Aspose.Words.xml
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.GKAutomatic.pdb
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\office.xml
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.EventIn.pdb
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.PackageGenerator.pdb
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.ConnectionForm.resources
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.MainForm.resources
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.MessagesForm.resources
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.Properties.Resources.resources
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.TopForm.resources
+C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.csproj.GenerateResource.Cache
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM Smorgasbord.exe.config
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM Smorgasbord.exe
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM Smorgasbord.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\PackageChains.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\GetAuditInfo.js
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\GetEventInFieldValues.js
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\GeneralConfig.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\JsonEncode.js
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\CreateUnloadRecord.js
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Images\37.ico
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\Connections.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Images\36.ico
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\PackageInfo.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Templates\Move Instructions Template.docx
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\GetUnloadEntity.js
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Images\unl.ico
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Aspose.Words.lic
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Templates\Audit Log File Template.docx
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\MenuConfig.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM Smorgasbord.exe
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM Smorgasbord.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.EventIn.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.GKAutomatic.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.PackageGenerator.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\OTAClientLib.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Aspose.Words.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Noemax.FastInfoset.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\office.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Aspose.Words.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.GKAutomatic.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\office.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.EventIn.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.PackageGenerator.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.ConnectionForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.MainForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.MessagesForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.Properties.Resources.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.TopForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.csproj.GenerateResource.Cache
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Images\37.ico
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Images\unl.ico
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Templates\Move Instructions Template.docx
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Aspose.Words.lic
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\GetAuditInfo.js
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\Connections.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\GeneralConfig.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\JsonEncode.js
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\CreateUnloadRecord.js
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\PackageInfo.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\GetEventInFieldValues.js
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\XmlData\PackageChains.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Templates\Audit Log File Template.docx
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Images\36.ico
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\JSCode\GetUnloadEntity.js
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\MenuConfig.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.EventIn.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.GKAutomatic.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.PackageGenerator.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\OTAClientLib.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Aspose.Words.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Noemax.FastInfoset.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\office.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\Aspose.Words.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.GKAutomatic.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\office.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.EventIn.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM.Smorgasbord.PackageGenerator.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.ConnectionForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.MainForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.MessagesForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.Properties.Resources.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.TopForm.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM.Smorgasbord.Frame.csproj.GenerateResource.Cache
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM_Smorgasbord.exe.config
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM_Smorgasbord.exe
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\Debug\SM_Smorgasbord.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM_Smorgasbord.exe
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM_Smorgasbord.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\obj\Debug\SM_Smorgasbord.pdb

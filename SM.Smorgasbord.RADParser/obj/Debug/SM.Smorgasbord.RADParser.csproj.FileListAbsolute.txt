@@ -1,0 +1,12 @@
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.RADParser\bin\Debug\StandaloneFunctions.txt
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.RADParser\bin\Debug\SM.Smorgasbord.RADParser.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.RADParser\bin\Debug\SM.Smorgasbord.RADParser.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.RADParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.RADParser\obj\Debug\SM.Smorgasbord.RADParser.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.RADParser\obj\Debug\SM.Smorgasbord.RADParser.pdb
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.RADParser\bin\Debug\StandaloneFunctions.txt
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.RADParser\bin\Debug\SM.Smorgasbord.RADParser.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.RADParser\bin\Debug\SM.Smorgasbord.RADParser.pdb
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.RADParser\obj\Debug\SM.Smorgasbord.RADParser.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.RADParser\obj\Debug\SM.Smorgasbord.RADParser.pdb
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.RADParser\obj\Debug\SM.Smorgasbord.RADParser.csprojResolveAssemblyReference.cache

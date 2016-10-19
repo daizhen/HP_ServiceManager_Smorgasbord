@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageChains xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Chains>
+    <ChainInfo>
+      <Name>MDEV-ITE-EIT</Name>
+      <Connections>
+        <ConnectionInfo>
+          <Name>MDEV</Name>
+          <Domain>gsmtpah3.chn.hp.com</Domain>
+          <Port>14010</Port>
+          <UserName>ASIAPACIFIC_DAIZHEN</UserName>
+          <Password />
+        </ConnectionInfo>
+        <ConnectionInfo>
+          <Name>ITE</Name>
+          <Domain>gscapps1.gre.hp.com</Domain>
+          <Port>13085</Port>
+          <UserName>ASIAPACIFIC_DAIZHEN</UserName>
+          <Password />
+        </ConnectionInfo>
+        <ConnectionInfo>
+          <Name>EIT</Name>
+          <Domain>usplsvulm841.eit.elabs.eds.com</Domain>
+          <Port>14070</Port>
+          <UserName>ASIAPACIFIC_DAIZHEN</UserName>
+          <Password />
+        </ConnectionInfo>
+      </Connections>
+    </ChainInfo>
+    <ChainInfo>
+      <Name>MDEV-EIT</Name>
+      <Connections>
+        <ConnectionInfo>
+          <Name>MDEV</Name>
+          <Domain>gsmtpah3.chn.hp.com</Domain>
+          <Port>14010</Port>
+          <UserName>ASIAPACIFIC_DAIZHEN</UserName>
+          <Password />
+        </ConnectionInfo>
+        <ConnectionInfo>
+          <Name>EIT</Name>
+          <Domain>usplsvulm841.eit.elabs.eds.com</Domain>
+          <Port>14070</Port>
+          <UserName>ASIAPACIFIC_DAIZHEN</UserName>
+          <Password />
+        </ConnectionInfo>
+      </Connections>
+    </ChainInfo>
+    <ChainInfo>
+      <Name>3.6 BF MEV-TEST</Name>
+      <Connections>
+        <ConnectionInfo>
+          <Name>3.6BF DEV</Name>
+          <Domain>gsmtpah8.asiapacific.hpqcorp.net</Domain>
+          <Port>14070</Port>
+          <UserName>ASIAPACIFIC_DAIZHEN</UserName>
+          <Password />
+        </ConnectionInfo>
+        <ConnectionInfo>
+          <Name>3.6BF TEST</Name>
+          <Domain>gsmtpah9.asiapacific.hpqcorp.net</Domain>
+          <Port>14070</Port>
+          <UserName>ASIAPACIFIC_DAIZHEN</UserName>
+          <Password />
+        </ConnectionInfo>
+      </Connections>
+    </ChainInfo>
+    <ChainInfo>
+      <Name>3.7 BF DEV-TEST</Name>
+      <Connections>
+        <ConnectionInfo>
+          <Name>3.7 BF DEV</Name>
+          <Domain>gsmtpah15.asiapacific.hpqcorp.net</Domain>
+          <Port>14070</Port>
+          <UserName>ASIAPACIFIC_DAIZHEN</UserName>
+          <Password />
+        </ConnectionInfo>
+        <ConnectionInfo>
+          <Name>3.7 BF Test</Name>
+          <Domain>gsmtpah17.asiapacific.hpqcorp.net</Domain>
+          <Port>47002</Port>
+          <UserName>ASIAPACIFIC_DAIZHEN</UserName>
+          <Password />
+        </ConnectionInfo>
+      </Connections>
+    </ChainInfo>
+    <ChainInfo>
+      <Name>3.7.0 BF DEV-TEST</Name>
+      <Connections>
+        <ConnectionInfo>
+          <Name>3.7.0 BF Test</Name>
+          <Domain>gsmtpah6.asiapacific.hpqcorp.net</Domain>
+          <Port>14070</Port>
+          <UserName>ASIAPACIFIC_DAIZHEN</UserName>
+          <Password />
+        </ConnectionInfo>
+        <ConnectionInfo>
+          <Name>3.7.0 BF Test</Name>
+          <Domain>gsmtpah6.asiapacific.hpqcorp.net</Domain>
+          <Port>14070</Port>
+          <UserName>ASIAPACIFIC_DAIZHEN</UserName>
+          <Password />
+        </ConnectionInfo>
+      </Connections>
+    </ChainInfo>
+  </Chains>
+</PackageChains>

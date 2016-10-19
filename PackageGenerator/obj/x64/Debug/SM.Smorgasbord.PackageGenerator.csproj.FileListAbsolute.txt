@@ -1,0 +1,26 @@
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\JSCode\CreateUnloadRecord.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\JSCode\GetAuditInfo.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\JSCode\GetUnloadEntity.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\JSCode\JsonEncode.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\Aspose.Words.lic
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\Templates\Audit Log File Template.docx
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\Templates\Move Instructions Template.docx
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\SM.Smorgasbord.PackageGenerator.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\SM.Smorgasbord.PackageGenerator.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\Aspose.Words.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\office.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\Aspose.Words.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\bin\x64\Debug\office.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\obj\x64\Debug\SM.Smorgasbord.PackageGenerator.PackageForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\obj\x64\Debug\SM.Smorgasbord.PackageGenerator.Properties.Resources.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\obj\x64\Debug\SM.Smorgasbord.PackageGenerator.TestDrawing.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\obj\x64\Debug\SM.Smorgasbord.PackageGenerator.csproj.GenerateResource.Cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\obj\x64\Debug\SM.Smorgasbord.PackageGenerator.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\PackageGenerator\obj\x64\Debug\SM.Smorgasbord.PackageGenerator.pdb

@@ -1,0 +1,5 @@
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.RADParser\bin\Release\StandaloneFunctions.txt
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.RADParser\bin\Release\SM.Smorgasbord.RADParser.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.RADParser\bin\Release\SM.Smorgasbord.RADParser.pdb
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.RADParser\obj\Release\SM.Smorgasbord.RADParser.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.RADParser\obj\Release\SM.Smorgasbord.RADParser.pdb

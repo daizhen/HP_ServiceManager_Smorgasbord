@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GeneralConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RootPath>C:\Users\daizhen\Documents\Desktop\GK Tool</RootPath>
+  <QCUserName>zhend_hp.com</QCUserName>
+  <QCPrintName>Dai Zhen</QCPrintName>
+</GeneralConfig>

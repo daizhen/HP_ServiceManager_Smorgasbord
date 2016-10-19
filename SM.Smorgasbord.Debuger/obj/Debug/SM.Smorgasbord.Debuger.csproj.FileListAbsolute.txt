@@ -1,0 +1,72 @@
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.Form1.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.Properties.Resources.resources
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.csproj.GenerateResource.Cache
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\bin\Debug\SM.Smorgasbord.Debuger.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\bin\Debug\SM.Smorgasbord.Communication.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\bin\Debug\LiquidTechnologies.FastInfoset.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\bin\Debug\SM.Smorgasbord.Communication.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\bin\Debug\LiquidTechnologies.FastInfoset.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\bin\Debug\LiquidTechnologies.FastInfoset.xml
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.pdb
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\bin\Debug\SM.Smorgasbord.Debuger.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\SM.Smorgasbord.Debuger.dll
+C:\Users\daizhen\Need_Backup\Documents\Visual_Studio_2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\SM.Smorgasbord.Debuger.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\XmlData\PackageChains.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\XmlData\PackageInfo.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\Images\37.ico
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\Images\36.ico
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\Images\SingleMessage.ico
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\XmlData\Connections.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\Images\unl.ico
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\XmlData\GeneralConfig.xml
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\JSCode\GetRTContext.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\JSCode\GetFormatInfo.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\JSCode\GetRADInfo.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\JSCode\JsonEncode.js
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\SM.Smorgasbord.Debuger.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\SM.Smorgasbord.Debuger.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.DebugForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.Form1.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.FormatControl.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.Properties.Resources.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.csproj.GenerateResource.Cache
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.pdb
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\SciLexer.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\SciLexer64.dll
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.VariableDisplayForm.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\StandaloneFunctions.txt
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.RTViewer.resources
+C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.RTViewerForm.resources
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\Images\36.ico
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\Images\37.ico
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\Images\SingleMessage.ico
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\Images\unl.ico
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\XmlData\Connections.xml
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\XmlData\GeneralConfig.xml
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\XmlData\PackageChains.xml
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\XmlData\PackageInfo.xml
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\StandaloneFunctions.txt
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\JSCode\GetRTContext.js
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\JSCode\GetFormatInfo.js
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\JSCode\GetRADInfo.js
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\JSCode\JsonEncode.js
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\SciLexer.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\SciLexer64.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\SM.Smorgasbord.Debuger.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\SM.Smorgasbord.Debuger.pdb
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.csprojResolveAssemblyReference.cache
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.DebugForm.resources
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.Form1.resources
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.FormatControl.resources
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.Properties.Resources.resources
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.RTViewer.resources
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.RTViewerForm.resources
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.VariableDisplayForm.resources
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.csproj.GenerateResource.Cache
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.dll
+C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.pdb

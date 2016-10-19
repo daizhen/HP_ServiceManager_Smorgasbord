@@ -1,0 +1,237 @@
+﻿{
+  "name": "descriptor",
+  "type": 9,
+  "level": 0,
+  "children": [
+    {
+      "name": "process",
+      "type": 2,
+      "level": 1,
+      "children": [
+        
+      ]
+    },
+    {
+      "name": "pre.expressions",
+      "type": 8,
+      "level": 1,
+      "children": [
+        {
+          "name": "pre.expressions",
+          "type": 11,
+          "level": 2,
+          "children": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "name": "post.expressions",
+      "type": 8,
+      "level": 1,
+      "children": [
+        {
+          "name": "post.expressions",
+          "type": 11,
+          "level": 2,
+          "children": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rad",
+      "type": 8,
+      "level": 1,
+      "children": [
+        {
+          "name": "rad",
+          "type": 9,
+          "level": 2,
+          "children": [
+            {
+              "name": "application",
+              "type": 2,
+              "level": 3,
+              "children": [
+                
+              ]
+            },
+            {
+              "name": "names",
+              "type": 8,
+              "level": 3,
+              "children": [
+                {
+                  "name": "names",
+                  "type": 2,
+                  "level": 4,
+                  "children": [
+                    
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "values",
+              "type": 8,
+              "level": 3,
+              "children": [
+                {
+                  "name": "values",
+                  "type": 2,
+                  "level": 4,
+                  "children": [
+                    
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "rad.condition",
+              "type": 4,
+              "level": 3,
+              "children": [
+                
+              ]
+            },
+            {
+              "name": "pre.rad.expressions",
+              "type": 8,
+              "level": 3,
+              "children": [
+                {
+                  "name": "pre.rad.expressions",
+                  "type": 11,
+                  "level": 4,
+                  "children": [
+                    
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "post.rad.expressions",
+              "type": 8,
+              "level": 3,
+              "children": [
+                {
+                  "name": "post.rad.expressions",
+                  "type": 11,
+                  "level": 4,
+                  "children": [
+                    
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "next.process",
+      "type": 8,
+      "level": 1,
+      "children": [
+        {
+          "name": "next.process",
+          "type": 2,
+          "level": 2,
+          "children": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "name": "process.condition",
+      "type": 8,
+      "level": 1,
+      "children": [
+        {
+          "name": "process.condition",
+          "type": 4,
+          "level": 2,
+          "children": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "name": "run.standard",
+      "type": 4,
+      "level": 1,
+      "children": [
+        
+      ]
+    },
+    {
+      "name": "sysmodcount",
+      "type": 1,
+      "level": 1,
+      "children": [
+        
+      ]
+    },
+    {
+      "name": "sysmoduser",
+      "type": 2,
+      "level": 1,
+      "children": [
+        
+      ]
+    },
+    {
+      "name": "sysmodtime",
+      "type": 3,
+      "level": 1,
+      "children": [
+        
+      ]
+    },
+    {
+      "name": "save.cursor.position",
+      "type": 4,
+      "level": 1,
+      "children": [
+        
+      ]
+    },
+    {
+      "name": "run.in.window",
+      "type": 4,
+      "level": 1,
+      "children": [
+        
+      ]
+    },
+    {
+      "name": "window.name",
+      "type": 2,
+      "level": 1,
+      "children": [
+        
+      ]
+    },
+    {
+      "name": "javascript.pre",
+      "type": 2,
+      "level": 1,
+      "children": [
+        
+      ]
+    },
+    {
+      "name": "javascript.post",
+      "type": 2,
+      "level": 1,
+      "children": [
+        
+      ]
+    }
+  ]
+}
