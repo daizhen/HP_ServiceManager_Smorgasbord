@@ -19,14 +19,14 @@ There are 3 components for this projects.
 ##1. Frame.
 This is start-up of the project, providing a common message console which shows the messages as HP Service Manager did.
 
-Plugins are configured in MenuConfig.xml. 
+Plugins are configured in [MenuConfig.xml](SM.Smorgasbord.Frame/MenuConfig.xml "MenuConfig.xml"). 
 
 ##2. Communication module.
 This module contains methods to communicate with Service Manager App Server. And this module is created purely by re-engineering. 
 
 By calling the following methods, communication with Service Manager turns to be easy.
 
-1. lib/RunCode
+###1. lib/RunCode
 
 By using this class, you can run the javascript code in Service Manager Server side and return the running result.   
 
@@ -62,19 +62,19 @@ Example to Return Complex result: [SearchForm.cs](SM.Smorgasbord.SarchString/Sea
             //return rawData;
         }
 ```
-2. lib/JSCodeRunner
+###2. lib/JSCodeRunner
 
 This class extend class RunCode and add `Include` method to include dependent javascript files when run a function. 
 
-3. lib/ImportFile
+###3. lib/ImportFile
 
 This class is used to import unload file to Service Manager.
 
-4. lib/UnloadFile
+###4. lib/UnloadFile
 
 This class is used to export unload objects.
 
-5. lib/UnloadScriptFile
+###5. lib/UnloadScriptFile
 
 This class used to export unload data. (not include the detail object content).
 
