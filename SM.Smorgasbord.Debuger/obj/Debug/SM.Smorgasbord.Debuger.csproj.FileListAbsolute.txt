@@ -70,3 +70,31 @@ C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debu
 C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.csproj.GenerateResource.Cache
 C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.dll
 C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.csprojResolveAssemblyReference.cache
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.DebugForm.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.Form1.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.FormatControl.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.Properties.Resources.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.RTViewer.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.RTViewerForm.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.VariableDisplayForm.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.csproj.GenerateResource.Cache
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Debuger\obj\Debug\SM.Smorgasbord.Debuger.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\Images\36.ico
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\Images\37.ico
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\Images\SingleMessage.ico
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\Images\unl.ico
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\XmlData\Connections.xml
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\XmlData\GeneralConfig.xml
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\XmlData\PackageChains.xml
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\XmlData\PackageInfo.xml
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\StandaloneFunctions.txt
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\JSCode\GetRTContext.js
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\JSCode\GetFormatInfo.js
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\JSCode\GetRADInfo.js
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\JSCode\JsonEncode.js
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\SciLexer.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\SciLexer64.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\SM.Smorgasbord.Debuger.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Frame\bin\x86\Debug\SM.Smorgasbord.Debuger.pdb

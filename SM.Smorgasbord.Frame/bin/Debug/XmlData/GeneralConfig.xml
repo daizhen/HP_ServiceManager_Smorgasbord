@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GeneralConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RootPath>C:\Users\daizhen\SM Projects</RootPath>
+  <QCUserName>zhend_hp.com</QCUserName>
+  <QCPrintName>Dai Zhen</QCPrintName>
+  <PDCoordinator>yujuanc@hp.com</PDCoordinator>
+  <TestingGroup>gdccaiiovsctestingcommunicator@hp.com</TestingGroup>
+  <ExchangeServerUri>https://casarray1.hp.com/ews/Exchange.asmx</ExchangeServerUri>
+  <UserDomain>ASIAPACIFIC</UserDomain>
+</GeneralConfig>

@@ -16,3 +16,20 @@ C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgas
 C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.RADEditor\obj\Debug\SM.Smorgasbord.RADEditor.pdb
 C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.RADEditor\bin\Debug\Aga.Controls.dll
 C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.RADEditor\bin\Debug\Aga.Controls.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\bin\Debug\StandaloneFunctions.txt
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\bin\Debug\jsonProcess.txt
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\bin\Debug\SM.Smorgasbord.RADEditor.exe
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\bin\Debug\SM.Smorgasbord.RADEditor.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\bin\Debug\SM.Smorgasbord.Communication.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\bin\Debug\SM.Smorgasbord.RADParser.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\bin\Debug\LiquidTechnologies.FastInfoset.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\bin\Debug\SM.Smorgasbord.Communication.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\bin\Debug\SM.Smorgasbord.RADParser.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\bin\Debug\Aga.Controls.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\obj\Debug\SM.Smorgasbord.RADEditor.csprojResolveAssemblyReference.cache
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\obj\Debug\SM.Smorgasbord.RADEditor.MainForm.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\obj\Debug\SM.Smorgasbord.RADEditor.Properties.Resources.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\obj\Debug\SM.Smorgasbord.RADEditor.csproj.GenerateResource.Cache
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\obj\Debug\SM.Smorgasbord.RADEditor.exe
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.RADEditor\obj\Debug\SM.Smorgasbord.RADEditor.pdb

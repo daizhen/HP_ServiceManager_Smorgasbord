@@ -5,3 +5,10 @@ C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgas
 C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Communication\obj\Debug\SM.Smorgasbord.Communication.dll
 C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Communication\obj\Debug\SM.Smorgasbord.Communication.pdb
 C:\Users\daizhen\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.Communication\bin\Debug\Noemax.FastInfoset.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Communication\obj\Debug\SM.Smorgasbord.Communication.csprojResolveAssemblyReference.cache
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Communication\bin\Debug\SM.Smorgasbord.Communication.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Communication\bin\Debug\SM.Smorgasbord.Communication.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Communication\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Communication\bin\Debug\LiquidTechnologies.FastInfoset.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Communication\obj\Debug\SM.Smorgasbord.Communication.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.Communication\obj\Debug\SM.Smorgasbord.Communication.pdb

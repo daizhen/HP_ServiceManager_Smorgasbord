@@ -21,3 +21,15 @@ C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbor
 C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\Debug\SM.Smorgasbord.UnloadAnalyzer.csproj.GenerateResource.Cache
 C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\Debug\SM.Smorgasbord.UnloadAnalyzer.exe
 C:\Users\daizhen\Need Backup\Documents\Visual Studio 2008\Projects\SM.Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\Debug\SM.Smorgasbord.UnloadAnalyzer.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\bin\Debug\SM.Smorgasbord.UnloadAnalyzer.exe
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\bin\Debug\SM.Smorgasbord.UnloadAnalyzer.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\bin\Debug\SM.Smorgasbord.Communication.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\bin\Debug\LiquidTechnologies.FastInfoset.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\bin\Debug\SM.Smorgasbord.Communication.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\Debug\SM.Smorgasbord.UnloadAnalyzer.csprojResolveAssemblyReference.cache
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\Debug\SM.Smorgasbord.UnloadAnalyzer.Form1.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\Debug\SM.Smorgasbord.UnloadAnalyzer.Properties.Resources.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\Debug\SM.Smorgasbord.UnloadAnalyzer.csproj.GenerateResource.Cache
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\Debug\SM.Smorgasbord.UnloadAnalyzer.exe
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.UnloadAnalyzer\obj\Debug\SM.Smorgasbord.UnloadAnalyzer.pdb

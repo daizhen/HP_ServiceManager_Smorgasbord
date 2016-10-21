@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<MenuEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TabContained>true</TabContained>
+  <Children>
+    <MenuEntity>
+      <Text>GKAutomatic</Text>
+      <TabContained>false</TabContained>
+      <Children>
+        <MenuEntity>
+          <Text>Start</Text>
+          <DllName>SM.Smorgasbord.GKAutomatic.dll</DllName>
+          <ClassName>SM.Smorgasbord.GKAutomatic.Startup</ClassName>
+          <Method>Start</Method>
+          <TabText>GKAutomatic-Start</TabText>
+          <TabContained>true</TabContained>
+          <Children />
+        </MenuEntity>
+        <MenuEntity>
+          <Text>Package Root...</Text>
+          <DllName>SM.Smorgasbord.GKAutomatic.dll</DllName>
+          <ClassName>SM.Smorgasbord.GKAutomatic.Startup</ClassName>
+          <Method>ConfigRootPath</Method>
+          <TabContained>false</TabContained>
+          <Children />
+        </MenuEntity>
+        <MenuEntity>
+          <Text>Chains</Text>
+          <DllName>SM.Smorgasbord.GKAutomatic.dll</DllName>
+          <ClassName>SM.Smorgasbord.GKAutomatic.Startup</ClassName>
+          <Method>ConfigConnections</Method>
+          <TabContained>false</TabContained>
+          <Children />
+        </MenuEntity>
+      </Children>
+    </MenuEntity>
+    <MenuEntity>
+      <Text>Generate Package</Text>
+      <TabContained>true</TabContained>
+      <Children>
+        <MenuEntity>
+          <Text>Start</Text>
+          <DllName>SM.Smorgasbord.PackageGenerator.dll</DllName>
+          <ClassName>SM.Smorgasbord.PackageGenerator.Startup</ClassName>
+          <Method>Start</Method>
+          <TabText>Generate Package-Start</TabText>
+          <TabContained>true</TabContained>
+          <Children />
+        </MenuEntity>
+      </Children>
+    </MenuEntity>
+    <MenuEntity>
+      <Text>Event In Utility</Text>
+      <TabContained>true</TabContained>
+      <Children>
+        <MenuEntity>
+          <Text>Start</Text>
+          <DllName>SM.Smorgasbord.EventIn.dll</DllName>
+          <ClassName>SM.Smorgasbord.EventIn.Startup</ClassName>
+          <Method>Start</Method>
+          <TabText>Event In Utility</TabText>
+          <TabContained>true</TabContained>
+          <Children />
+        </MenuEntity>
+      </Children>
+    </MenuEntity>
+    <MenuEntity>
+      <Text>Search string</Text>
+      <TabContained>true</TabContained>
+      <Children>
+        <MenuEntity>
+          <Text>Start</Text>
+          <DllName>SM.Smorgasbord.SearchString.dll</DllName>
+          <ClassName>SM.Smorgasbord.SearchString.Startup</ClassName>
+          <Method>Start</Method>
+          <TabText>Search string</TabText>
+          <TabContained>true</TabContained>
+          <Children />
+        </MenuEntity>
+      </Children>
+    </MenuEntity>
+
+    <MenuEntity>
+      <Text>Insert RAD Panel</Text>
+      <TabContained>true</TabContained>
+      <Children>
+        <MenuEntity>
+          <Text>Start</Text>
+          <DllName>SM.Smorgasbord.InsertRadPanel.dll</DllName>
+          <ClassName>SM.Smorgasbord.InsertRadPanel.Startup</ClassName>
+          <Method>Start</Method>
+          <TabText>Insert RAD Panel</TabText>
+          <TabContained>true</TabContained>
+          <Children />
+        </MenuEntity>
+      </Children>
+    </MenuEntity>
+
+
+    <MenuEntity>
+      <Text>Debugger</Text>
+      <TabContained>true</TabContained>
+      <Children>
+        <MenuEntity>
+          <Text>Start</Text>
+          <DllName>SM.Smorgasbord.Debuger.dll</DllName>
+          <ClassName>SM.Smorgasbord.Debuger.Startup</ClassName>
+          <Method>Start</Method>
+          <TabText>Debugger</TabText>
+          <TabContained>true</TabContained>
+          <Children />
+        </MenuEntity>
+      </Children>
+    </MenuEntity>
+    
+  </Children>
+</MenuEntity>

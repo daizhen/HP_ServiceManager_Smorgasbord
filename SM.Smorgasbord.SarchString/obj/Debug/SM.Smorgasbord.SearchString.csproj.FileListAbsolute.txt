@@ -43,3 +43,17 @@ C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\
 C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.csproj.GenerateResource.Cache
 C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.dll
 C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.csprojResolveAssemblyReference.cache
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.Properties.Resources.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.SearchForm.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.csproj.GenerateResource.Cache
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.SarchString\obj\Debug\SM.Smorgasbord.SearchString.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\JSCode\SearchString.js
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\TableToSearch.txt
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.SearchString.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.SearchString.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.Communication.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\LiquidTechnologies.FastInfoset.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.SarchString\bin\Debug\SM.Smorgasbord.Communication.pdb

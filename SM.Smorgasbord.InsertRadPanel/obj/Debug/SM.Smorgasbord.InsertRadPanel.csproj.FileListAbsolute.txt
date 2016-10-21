@@ -40,3 +40,16 @@ C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.InsertRadPanel\o
 C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.InsertRadPanel\obj\Debug\SM.Smorgasbord.InsertRadPanel.csproj.GenerateResource.Cache
 C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.InsertRadPanel\obj\Debug\SM.Smorgasbord.InsertRadPanel.dll
 C:\Users\daizhen\VS Projects\2008\SM.Smorgasbord\SM.Smorgasbord.InsertRadPanel\obj\Debug\SM.Smorgasbord.InsertRadPanel.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.InsertRadPanel\obj\Debug\SM.Smorgasbord.InsertRadPanel.csprojResolveAssemblyReference.cache
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.InsertRadPanel\obj\Debug\SM.Smorgasbord.InsertRadPanel.MainForm.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.InsertRadPanel\obj\Debug\SM.Smorgasbord.InsertRadPanel.Properties.Resources.resources
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.InsertRadPanel\obj\Debug\SM.Smorgasbord.InsertRadPanel.csproj.GenerateResource.Cache
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.InsertRadPanel\obj\Debug\SM.Smorgasbord.InsertRadPanel.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.InsertRadPanel\obj\Debug\SM.Smorgasbord.InsertRadPanel.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.InsertRadPanel\bin\Debug\JSCode\InsertRad.js
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.InsertRadPanel\bin\Debug\SM.Smorgasbord.InsertRadPanel.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.InsertRadPanel\bin\Debug\SM.Smorgasbord.InsertRadPanel.pdb
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.InsertRadPanel\bin\Debug\SM.Smorgasbord.Communication.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.InsertRadPanel\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.InsertRadPanel\bin\Debug\LiquidTechnologies.FastInfoset.dll
+C:\cygwin64\home\daizhen\projects\HP_ServiceManager_Smorgasbord\SM.Smorgasbord.InsertRadPanel\bin\Debug\SM.Smorgasbord.Communication.pdb
